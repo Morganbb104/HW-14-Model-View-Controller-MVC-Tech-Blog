@@ -3,6 +3,17 @@
 ## Live link
 https://tech-blog0328.herokuapp.com/
 
+## Usage
+clone this repo and navigate to the root folder, run the commands below from the commanderline
+Run Test;    
+`npm run test`     
+
+Seed DB;   
+`npm run seed`     
+
+Start Server;     
+`npm start server` 
+
 ## Your Task
 
 Writing about tech can be just as important as making it. Developers spend plenty of time creating new applications and debugging existing codebases, but most developers also spend at least some of their time reading and writing about technical concepts, recent advancements, and new technologies. A simple Google search for any concept covered in this course returns thousands of think pieces and tutorials from developers of all skill levels!
